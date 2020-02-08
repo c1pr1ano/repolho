@@ -5,4 +5,4 @@ repositorio teste
 
 Este é o meu primeiro repositorio!
 
-![](Desktop\repolho.jepg)
+![](https://github.com/c1pr1ano/repolho/blob/master/repolho.jpeg)
