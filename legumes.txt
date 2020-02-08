@@ -1,3 +1,5 @@
 tomate
+cebola
 cenoura
 chuchu
+beteraba
