@@ -3,3 +3,6 @@ cebola
 cenoura
 chuchu
 beteraba
+
+alface
+carne
