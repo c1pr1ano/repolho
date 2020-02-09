@@ -2,7 +2,11 @@ tomate
 cebola
 cenoura
 chuchu
-beteraba
 
+beteraba
 alface
 carne
+
+carne de sol
+repolho roxo
+
